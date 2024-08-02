@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=duna-a&icon=5&color=5)](https://visitcount.itsvg.in)
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duna+Alabdulaziz!;" />
@@ -18,5 +18,4 @@
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=duna-a&icon=5&color=5)](https://visitcount.itsvg.in)
